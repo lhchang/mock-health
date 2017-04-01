@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "222772632365",
+    "project_id": "mock-health"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222772632365:android:745adbaaf41fe1a4",
+        "android_client_info": {
+          "package_name": "larry.mockhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "222772632365-ir8qj7hntas0bnqiepjltnba8ntle0lu.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "222772632365-aofqegpa41ik1nbjebq0pbpobi6923oe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "larry.mockhealth",
+            "certificate_hash": "f93a4360ad703a2c1240db6323e4ab023bcc782a"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvXzdS9cakMP5QewJb_PxEWZtfM71oXcU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
